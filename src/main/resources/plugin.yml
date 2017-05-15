@@ -1,0 +1,4 @@
+name: ParrotRider
+version: ${project.version}
+main: net.poweredbyscience.parrotrider.Parrotrider
+authors: [LaxWasHere]
